@@ -6,9 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NewsViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface ListViewController : UIViewController
 
 @end
 
